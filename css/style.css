@@ -89,9 +89,13 @@
 }
 
 
-.collection-item h3 {
-	  font-size: 1.92rem;
+h3 {
+	  font-size: 2.60rem;
 	  color:green;
+}
+
+a h3 {
+	  color:steelblue;
 }
 
 .parallax-container h2{
